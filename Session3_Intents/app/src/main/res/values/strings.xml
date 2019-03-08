@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Session3_Intents</string>
+    <string name="start_new_activity">START NEW ACTIVITY</string>
+    <string name="activity_2">ACTIVITY 2</string>
+    <string name="back">BACK</string>
+    <string name="email">Email</string>
+    <string name="love">I LOVE AND</string>
+    <string name="hate">! I HATE AND !</string>
+    <string name="change">CHANGE</string>
+</resources>
